@@ -24,7 +24,7 @@
 <img align="right" alt="Coding Boy GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 **Currently Working On:** Python Data Analysis & Console Applications
-- 🎓 **Education:** B.Tech in **Computer Science & Engineering (Core)** at *Rungta International Skills University*
+- 🎓 **Education:** B.Tech in **Computer Science & Engineering (Data Science)** at *Rungta International Skills University*
 - 🌱 **Currently Learning:** Python, C Programming, Pandas, NumPy, Matplotlib & Git
 - 💡 **Interests:** Software Development, Problem Solving, Data Visualization & Automation
 - 🤝 **Open For:** Beginner-friendly Open Source Projects, Hackathons & Study Collaborations
